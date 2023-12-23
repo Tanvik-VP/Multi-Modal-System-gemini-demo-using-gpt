@@ -24,6 +24,11 @@ for voice we send the recording to whisper and get it back as the prompt and aga
 
 
 ## Results:
+
+
+https://github.com/Tanvik-VP/gemini-demo-using-gpt/assets/77459265/ce504066-2536-4737-9198-2ac0cc91bd3d
+
+
 Input: What am I holding in my hand?
 <img width="1120" alt="Screenshot 2023-12-22 at 7 39 59 PM" src="https://github.com/Tanvik-VP/gemini-demo-using-gpt/assets/77459265/7d101d71-98dc-4008-85fb-4d5477a85d6b">
 
